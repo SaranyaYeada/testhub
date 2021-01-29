@@ -14,6 +14,3 @@
  2.o
  
  3.n
- 
-# Display data as bold 
- *ALIET 
